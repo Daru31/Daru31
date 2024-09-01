@@ -1,8 +1,7 @@
 - Editing..
-- 👋 Hi, I’m Daru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning AI Engineering. 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Daru.
+- 👀 I’m interested in AI Engineering.
+- 🌱 I’m currently learning Python language. 
 - 📫 Email: daru31@icloud.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm SUPER noob at coding 👶
