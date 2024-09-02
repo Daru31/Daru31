@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daru</h1>
 <h3 align="center">A highschool student who want to become an AI engineer from South Korea</h3>
 
+
 - 📫 How to reach me **daru3189@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
