@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daru</h1>
-<h3 align="center">A highschool student who want to become an AI engineer from South Korea</h3>
+<h3 align="center">A highschool student from South Korea who want to become an AI engineer </h3>
 
 
 - 📫 How to reach me **daru3189@icloud.com**
